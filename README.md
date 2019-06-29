@@ -6,15 +6,15 @@ The purpose of this project was to explores the use of a GPS receiver integrated
 
 ### Google Maps Location Finder
 
-![Screenshot1](IMG/Tab1_Screenshot6in.png)*Google Maps API*
+![Screenshot1](/IMG/Tab1_Screenshot6in.png)*Google Maps API*
 
 
 ### GPS Position Readout and Satalite Location Chart
 
-![Screenshot2](IMG/Tab2_Screenshot6in.png)*GPS Satalite Location and Signal Strength*
+![Screenshot2](/IMG/Tab2_Screenshot6in.png)*GPS Satalite Location and Signal Strength*
 
 
 ### Spedometer, Compass and Vertical Speed Dashboard
 
-![Screenshot3](IMG/Tab3_Screenshot6in.png)*Dashboard Gagues*
+![Screenshot3](/IMG/Tab3_Screenshot6in.png)*Dashboard Gagues*
 
